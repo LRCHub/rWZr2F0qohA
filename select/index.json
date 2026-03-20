@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Safe and Sound",
+  "base_artist": "Capital Cities",
+  "createdAt": "2026-03-20T11:07:52.174626Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Safe And Sound",
+      "artist": "Sheryl Crow",
+      "has_synced": false,
+      "path": "select/01_Safe_And_Sound_Sheryl_Crow.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Safe and Sound",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/02_Safe_and_Sound_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "D.A.N.C.E. x Fire x Safe and Sound (WWW)",
+      "artist": "Justice",
+      "has_synced": true,
+      "path": "select/03_D.A.N.C.E._x_Fire_x_Safe_and_Sound_(WWW)_Justice.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "D.A.N.C.E. x Fire x Safe and Sound",
+      "artist": "Justice",
+      "has_synced": true,
+      "path": "select/04_D.A.N.C.E._x_Fire_x_Safe_and_Sound_Justice.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Safe and Sound",
+      "artist": "Justice",
+      "has_synced": true,
+      "path": "select/05_Safe_and_Sound_Justice.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Safe and Sound",
+      "artist": "Capital Cities",
+      "has_synced": true,
+      "path": "select/06_Safe_and_Sound_Capital_Cities.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Safe and Sound",
+      "artist": "Capital Cities",
+      "has_synced": true,
+      "path": "select/07_Safe_and_Sound_Capital_Cities.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Safe And Sound",
+      "artist": "Capital Cities",
+      "has_synced": true,
+      "path": "select/08_Safe_And_Sound_Capital_Cities.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Safe And Sound",
+      "artist": "Capital Cities",
+      "has_synced": true,
+      "path": "select/09_Safe_And_Sound_Capital_Cities.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "D.A.N.C.E. × Fire × Safe and Sound (WWW)",
+      "artist": "Justice",
+      "has_synced": false,
+      "path": "select/10_D.A.N.C.E._×_Fire_×_Safe_and_Sound_(WWW)_Justice.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Safe and Sound (WWW)",
+      "artist": "Justice",
+      "has_synced": true,
+      "path": "select/11_Safe_and_Sound_(WWW)_Justice.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Safe and Sound",
+      "artist": "Chris Cornell",
+      "has_synced": true,
+      "path": "select/12_Safe_and_Sound_Chris_Cornell.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Safe and Sound",
+      "artist": "Carly Simon",
+      "has_synced": true,
+      "path": "select/13_Safe_and_Sound_Carly_Simon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Safe And Sound - Dzeko And Torres’ Digital Dreamin Remix",
+      "artist": "Capital Cities",
+      "has_synced": false,
+      "path": "select/14_Safe_And_Sound_-_Dzeko_And_Torres’_Digital_Dreamin_Remix_Capital_Cities.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Safe And Sound",
+      "artist": "Capital Cities",
+      "has_synced": true,
+      "path": "select/15_Safe_And_Sound_Capital_Cities.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Safe And Sound - Cash Cash Remix",
+      "artist": "Capital Cities",
+      "has_synced": false,
+      "path": "select/16_Safe_And_Sound_-_Cash_Cash_Remix_Capital_Cities.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Safe And Sound",
+      "artist": "Capital Cities",
+      "has_synced": true,
+      "path": "select/17_Safe_And_Sound_Capital_Cities.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Safe And Sound - Live From Budokan, Japan/2002",
+      "artist": "Sheryl Crow",
+      "has_synced": false,
+      "path": "select/18_Safe_And_Sound_-_Live_From_Budokan,_Japan_2002_Sheryl_Crow.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Safe and Sound",
+      "artist": "Capital Cities",
+      "has_synced": false,
+      "path": "select/pl_01_Safe_and_Sound_Capital_Cities.txt"
+    }
+  ]
+}
